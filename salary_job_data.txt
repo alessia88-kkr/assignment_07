@@ -1,0 +1,202 @@
+# Salary and Job Data for 200 Employees
+ Employee_ID             Job_Title    Salary  Experience_Years      Location   Industry Employment_Type
+           1       Product Manager 109740.94                23       Chicago Healthcare       Part-Time
+           2         HR Specialist  94019.85                15      New York  Marketing       Full-Time
+           3 Marketing Coordinator 108835.22                22       Chicago Technology       Part-Time
+           4       Product Manager  46248.62                 1        Austin    Finance        Contract
+           5       Project Manager  96606.56                16 San Francisco     Retail       Full-Time
+           6         Sales Manager 111142.25                19        Boston Technology       Full-Time
+           7 Marketing Coordinator 137557.88                23        Austin Technology       Full-Time
+           8 Marketing Coordinator  85634.60                11        Austin Healthcare       Full-Time
+           9       Product Manager  85830.13                17       Seattle  Marketing       Full-Time
+          10          Data Analyst  76964.86                 2 San Francisco     Retail        Contract
+          11       Project Manager 103308.04                 0        Austin    Finance       Full-Time
+          12       Product Manager  91575.02                 0        Austin     Retail       Full-Time
+          13       Project Manager  92404.80                18 San Francisco    Finance       Full-Time
+          14       Project Manager 105265.35                10 San Francisco  Marketing       Part-Time
+          15         Sales Manager  90941.55                 4        Austin    Finance       Full-Time
+          16 Marketing Coordinator 115372.90                11 San Francisco Healthcare       Full-Time
+          17         HR Specialist  72958.94                 2        Austin Healthcare        Contract
+          18         Sales Manager  78446.76                 0        Austin Healthcare       Part-Time
+          19         Sales Manager  77157.84                 0       Seattle Healthcare       Full-Time
+          20       Project Manager  62729.70                 7      New York     Retail       Full-Time
+          21     Financial Analyst  99922.41                 9        Austin  Marketing       Part-Time
+          22 Marketing Coordinator 100221.11                10       Chicago    Finance       Full-Time
+          23          Data Analyst  96102.27                11        Boston    Finance       Full-Time
+          24         Sales Manager  92308.26                12      New York Healthcare       Full-Time
+          25         HR Specialist  67692.59                11      New York Healthcare       Full-Time
+          26     Financial Analyst  89587.09                13      New York Technology       Part-Time
+          27     Financial Analyst  79145.71                 1       Seattle  Marketing        Contract
+          28          Data Analyst  86954.45                18        Austin     Retail       Full-Time
+          29         Sales Manager  98774.29                17       Seattle    Finance       Full-Time
+          30         HR Specialist  95081.02                 2        Austin Technology       Full-Time
+          31 Marketing Coordinator 144723.72                22       Seattle Technology       Full-Time
+          32     Software Engineer 104491.56                16       Seattle    Finance       Part-Time
+          33         HR Specialist  97151.01                 7        Boston     Retail       Full-Time
+          34          Data Analyst  92511.08                 9       Chicago Technology       Full-Time
+          35     Financial Analyst  47624.58                 1       Seattle Technology       Full-Time
+          36 Marketing Coordinator 102469.72                18        Boston  Marketing       Full-Time
+          37         HR Specialist  94204.60                 8 San Francisco     Retail       Full-Time
+          38     Software Engineer 140264.84                 6       Chicago Technology       Part-Time
+          39     Software Engineer  84152.78                 3       Seattle     Retail       Full-Time
+          40       Project Manager 111030.95                20      New York    Finance       Part-Time
+          41       Project Manager 101305.76                17 San Francisco Healthcare       Full-Time
+          42       Product Manager  73626.44                12 San Francisco Technology       Full-Time
+          43          Data Analyst 117856.46                10        Boston  Marketing       Full-Time
+          44         Sales Manager 123038.66                23 San Francisco    Finance        Contract
+          45         HR Specialist 103820.64                 3       Chicago     Retail        Contract
+          46         HR Specialist  90812.25                24       Seattle    Finance       Full-Time
+          47         Sales Manager 133055.89                20       Seattle Technology       Full-Time
+          48       Product Manager  80962.98                24      New York     Retail        Contract
+          49     Financial Analyst  99737.14                 3        Boston Healthcare       Full-Time
+          50     Financial Analyst 137809.11                 9      New York    Finance       Full-Time
+          51       Product Manager  69189.27                 4 San Francisco Technology        Contract
+          52     Financial Analyst  81674.05                 8      New York  Marketing       Full-Time
+          53       Project Manager 109993.03                23       Chicago     Retail       Full-Time
+          54         HR Specialist  76930.49                 2       Seattle    Finance       Full-Time
+          55       Product Manager  69986.73                16 San Francisco    Finance       Full-Time
+          56         HR Specialist  88371.26                 2      New York Healthcare       Full-Time
+          57         Sales Manager  78753.93                15        Boston Healthcare       Part-Time
+          58     Software Engineer  97471.85                 3       Chicago  Marketing       Full-Time
+          59       Project Manager  83611.52                17       Chicago  Marketing       Full-Time
+          60 Marketing Coordinator 131998.69                16      New York Technology       Full-Time
+          61       Project Manager  75334.93                 6       Seattle Technology       Full-Time
+          62       Product Manager 101558.77                23      New York  Marketing        Contract
+          63 Marketing Coordinator 123270.34                22 San Francisco  Marketing       Full-Time
+          64     Software Engineer  64382.71                 4      New York     Retail       Full-Time
+          65       Product Manager 100549.20                11       Chicago Healthcare        Contract
+          66          Data Analyst 127142.86                16      New York Technology       Full-Time
+          67         HR Specialist  74850.34                22       Seattle Healthcare       Full-Time
+          68     Software Engineer 100692.68                12        Boston Healthcare       Full-Time
+          69         HR Specialist 112197.66                22        Austin  Marketing       Full-Time
+          70     Financial Analyst 124636.46                24      New York     Retail       Full-Time
+          71          Data Analyst  62260.99                 2       Seattle    Finance       Full-Time
+          72          Data Analyst  66590.87                 8       Seattle     Retail       Part-Time
+          73     Software Engineer 111438.83                16        Boston     Retail       Full-Time
+          74          Data Analyst 106939.69                16       Chicago Healthcare       Full-Time
+          75 Marketing Coordinator 109009.86                19       Seattle     Retail       Full-Time
+          76          Data Analyst 106928.96                15       Seattle Technology       Full-Time
+          77         HR Specialist  95399.51                24       Seattle Healthcare       Part-Time
+          78         HR Specialist 110645.07                21       Seattle Technology       Full-Time
+          79       Product Manager 102861.45                12 San Francisco    Finance       Full-Time
+          80         HR Specialist  88712.97                18 San Francisco Healthcare       Part-Time
+          81       Product Manager 138315.49                16       Chicago    Finance       Full-Time
+          82         HR Specialist  97476.66                 3      New York Healthcare       Full-Time
+          83 Marketing Coordinator  72173.93                11       Seattle  Marketing       Full-Time
+          84         Sales Manager 106131.07                 8        Boston     Retail       Full-Time
+          85       Product Manager  83506.37                18      New York  Marketing       Part-Time
+          86       Project Manager 111741.69                11        Boston    Finance       Full-Time
+          87     Financial Analyst 116171.91                 8      New York     Retail       Full-Time
+          88     Software Engineer  74586.35                 6       Chicago Healthcare       Full-Time
+          89         HR Specialist 117267.52                13       Seattle     Retail       Part-Time
+          90          Data Analyst 112255.62                19       Seattle Technology       Full-Time
+          91         Sales Manager 119441.20                18        Austin     Retail        Contract
+          92         HR Specialist 136935.86                14        Boston Technology       Full-Time
+          93          Data Analyst  95092.24                15      New York     Retail       Part-Time
+          94     Financial Analyst  89925.28                20      New York Technology        Contract
+          95     Financial Analyst  71209.71                 4 San Francisco    Finance       Part-Time
+          96     Financial Analyst  70683.79                 2        Austin  Marketing        Contract
+          97          Data Analyst  94457.97                11 San Francisco Healthcare       Full-Time
+          98         HR Specialist 115823.04                24 San Francisco     Retail       Full-Time
+          99     Financial Analyst 109533.82                19 San Francisco  Marketing       Full-Time
+         100 Marketing Coordinator 121543.66                20        Boston Healthcare       Full-Time
+         101       Product Manager  88260.04                 3        Boston Healthcare       Full-Time
+         102          Data Analyst 134070.68                20       Chicago Technology       Full-Time
+         103          Data Analyst 101706.86                22       Chicago    Finance       Full-Time
+         104         HR Specialist 154403.38                15 San Francisco    Finance       Full-Time
+         105          Data Analyst 121513.35                24        Austin  Marketing        Contract
+         106          Data Analyst  73856.85                 6      New York    Finance       Full-Time
+         107     Financial Analyst  75582.15                12        Boston     Retail       Part-Time
+         108         HR Specialist 114649.45                20        Austin    Finance       Part-Time
+         109     Financial Analyst  89530.74                 9       Seattle  Marketing        Contract
+         110       Product Manager 105280.01                 6        Boston    Finance       Full-Time
+         111         Sales Manager 107464.75                13        Boston     Retail       Part-Time
+         112       Product Manager  87543.42                 4       Chicago Technology        Contract
+         113         Sales Manager  70064.13                 2      New York  Marketing        Contract
+         114     Financial Analyst  76703.06                22      New York Technology       Full-Time
+         115       Product Manager  86069.70                10       Seattle Technology       Full-Time
+         116         HR Specialist 112127.98                10       Seattle Technology       Full-Time
+         117     Software Engineer 106281.87                17        Boston Healthcare       Full-Time
+         118     Financial Analyst  74085.22                14 San Francisco Healthcare       Full-Time
+         119         Sales Manager  99463.62                11       Chicago Technology       Part-Time
+         120 Marketing Coordinator 100706.35                 8       Chicago  Marketing       Part-Time
+         121         Sales Manager  76322.85                 9        Boston     Retail       Full-Time
+         122 Marketing Coordinator  99074.50                11        Austin     Retail        Contract
+         123          Data Analyst 102164.17                16 San Francisco    Finance       Full-Time
+         124       Product Manager  67140.59                 5        Boston  Marketing       Part-Time
+         125 Marketing Coordinator  98155.75                 6 San Francisco Healthcare        Contract
+         126         Sales Manager 109215.69                13 San Francisco Technology       Full-Time
+         127          Data Analyst 118661.02                12 San Francisco    Finance       Full-Time
+         128     Software Engineer 113076.04                 7        Boston     Retail       Part-Time
+         129         HR Specialist  66446.61                 9       Chicago Healthcare       Full-Time
+         130         HR Specialist  74243.50                 8       Chicago Healthcare       Full-Time
+         131         HR Specialist 112300.71                17 San Francisco Technology       Part-Time
+         132 Marketing Coordinator  96275.72                 1        Austin     Retail       Full-Time
+         133     Software Engineer  99300.95                 4      New York  Marketing       Part-Time
+         134 Marketing Coordinator 166054.63                 4        Boston Healthcare       Full-Time
+         135       Product Manager 101417.81                 5      New York Technology        Contract
+         136 Marketing Coordinator 125711.31                18        Austin  Marketing       Full-Time
+         137     Software Engineer 111080.04                 7        Boston     Retail        Contract
+         138     Software Engineer 113027.83                15 San Francisco Healthcare       Part-Time
+         139       Product Manager  90694.62                12       Chicago  Marketing       Full-Time
+         140     Software Engineer 100179.38                 0      New York  Marketing       Full-Time
+         141         Sales Manager  90543.50                21       Seattle  Marketing        Contract
+         142     Software Engineer  99263.63                19       Seattle Healthcare       Full-Time
+         143         HR Specialist  91292.73                16        Austin Healthcare       Full-Time
+         144         Sales Manager  92637.48                 6 San Francisco    Finance       Full-Time
+         145         Sales Manager 155293.17                24      New York     Retail       Full-Time
+         146       Product Manager  59654.70                12 San Francisco Technology       Part-Time
+         147       Project Manager 101725.20                 3      New York  Marketing       Full-Time
+         148       Project Manager  55745.68                 3        Austin    Finance       Full-Time
+         149     Software Engineer  80561.36                 5        Austin Technology       Full-Time
+         150         Sales Manager 124779.01                18       Seattle    Finance       Full-Time
+         151       Project Manager  97285.60                11 San Francisco Healthcare       Full-Time
+         152       Project Manager  84445.10                21        Boston  Marketing       Full-Time
+         153     Software Engineer  76693.93                 6       Seattle Technology        Contract
+         154       Project Manager 107591.95                 9 San Francisco Technology       Full-Time
+         155 Marketing Coordinator  88392.67                18       Seattle Technology       Full-Time
+         156          Data Analyst  95329.17                 6        Boston Technology       Part-Time
+         157       Product Manager  87911.44                 2       Chicago Technology       Full-Time
+         158          Data Analyst  83967.99                12       Chicago    Finance       Part-Time
+         159     Software Engineer 139878.88                12       Chicago  Marketing       Full-Time
+         160         HR Specialist 114678.38                17       Chicago Healthcare       Full-Time
+         161       Product Manager  63497.15                19      New York Healthcare       Full-Time
+         162     Software Engineer  95729.09                 7       Chicago Healthcare       Full-Time
+         163         Sales Manager  79764.27                 8        Boston Healthcare       Part-Time
+         164         HR Specialist 108048.67                 6        Austin    Finance       Full-Time
+         165          Data Analyst  69149.59                 0        Austin     Retail       Full-Time
+         166     Software Engineer  84705.27                 2      New York  Marketing       Full-Time
+         167         Sales Manager 107099.75                12       Chicago Technology       Full-Time
+         168       Product Manager 126315.10                24       Chicago     Retail       Part-Time
+         169       Product Manager  76994.07                16       Chicago Healthcare       Full-Time
+         170     Financial Analyst 102309.98                24       Seattle     Retail       Full-Time
+         171         Sales Manager  98501.09                23 San Francisco  Marketing       Full-Time
+         172 Marketing Coordinator  71933.42                 0       Seattle Technology       Full-Time
+         173       Project Manager 125309.08                 5 San Francisco Technology       Part-Time
+         174         HR Specialist 113099.63                20       Chicago  Marketing       Full-Time
+         175         Sales Manager  64782.32                 5       Chicago  Marketing       Part-Time
+         176     Financial Analyst 114357.24                11       Seattle Healthcare       Full-Time
+         177       Project Manager 139443.12                12       Seattle Technology       Full-Time
+         178       Project Manager 117649.31                12 San Francisco     Retail        Contract
+         179     Software Engineer  68612.60                14        Austin    Finance       Full-Time
+         180       Project Manager  95315.32                20 San Francisco    Finance       Full-Time
+         181 Marketing Coordinator 125338.22                15       Seattle  Marketing       Part-Time
+         182       Product Manager  91846.61                21        Boston Healthcare       Full-Time
+         183     Financial Analyst 113876.39                20       Seattle    Finance       Part-Time
+         184       Project Manager 110492.68                10        Boston Technology       Full-Time
+         185     Software Engineer  70461.39                 4      New York  Marketing        Contract
+         186 Marketing Coordinator  86809.49                 3       Seattle     Retail       Part-Time
+         187          Data Analyst  30000.00                 2      New York  Marketing       Full-Time
+         188       Product Manager  82512.25                18        Austin     Retail        Contract
+         189       Product Manager  98948.64                19 San Francisco  Marketing       Full-Time
+         190     Financial Analyst  84044.34                24        Boston  Marketing        Contract
+         191       Product Manager 134648.23                17 San Francisco  Marketing       Full-Time
+         192       Project Manager  70397.17                14      New York     Retail       Full-Time
+         193     Software Engineer  84199.11                 8        Boston     Retail       Full-Time
+         194       Product Manager 103614.81                16 San Francisco  Marketing       Full-Time
+         195       Product Manager 126825.47                13       Seattle    Finance       Full-Time
+         196          Data Analyst  70282.76                14       Chicago Healthcare       Part-Time
+         197          Data Analyst 108263.28                 0      New York Healthcare       Part-Time
+         198         HR Specialist 105204.66                20 San Francisco Healthcare        Contract
+         199 Marketing Coordinator  86369.83                21      New York     Retail       Full-Time
+         200       Project Manager 115242.07                21      New York     Retail       Full-Time
